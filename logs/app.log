@@ -1,0 +1,7 @@
+2026-07-01 18:05:25,842 | INFO | Connected to Binance Futures Testnet
+2026-07-01 18:33:14,913 | INFO | Connected to Binance Futures Testnet
+2026-07-01 18:33:14,922 | INFO | Sending MARKET order | Symbol=BTCUSDT, Side=BUY, Qty=0.001
+2026-07-01 18:33:15,852 | INFO | Market order successful: {}
+2026-07-01 18:33:31,296 | INFO | Connected to Binance Futures Testnet
+2026-07-01 18:33:31,298 | INFO | Sending LIMIT order | Symbol=BTCUSDT, Side=SELL, Qty=0.001, Price=150000.0
+2026-07-01 18:33:31,892 | INFO | Limit order successful: {}
